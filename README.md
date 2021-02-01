@@ -17,7 +17,7 @@
 As an independent recruiter, I've closed from Junior to Team Lead positions with Java+React.js\PHP\.Net\Android+Swift\RoR and other stacks. 
 Currently, I'm working with QA and DevOps engineers vacancies, Designers, BA, sales and other operational positions.
 
-I believe in honest communication on an equal footing, long-term relationships in recruitment and equitable managers with technical background. 
+I believe in honest communication on an equal footing, long-term relationships in recruitment and equitable, supportive managers with technical background. 
 
 ### Contact me:
 [<img align="left" alt="tech_recruiter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][mylinkedin]
