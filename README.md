@@ -11,8 +11,9 @@
 - 📫 How to reach me, add me: [mylinkedin]
 - 👯 I’m looking to collaborate with hiring managers and other tech recruiters and sourcers
 - 🎓 I’m recruiting mentors for non-profit [program]
+- 👩‍🎨 Exploring code as a medium of self expression
 - 👸 Pronouns: She/Her
-- ⚡ Fun fact: I curate protest art
+- ⚡ Fun fact: I curate art
 
 As an independent recruiter, I've closed from Junior to Team Lead positions with Java+React.js\PHP\.Net\Android+Swift\RoR and other stacks. 
 Currently, I'm working with QA and DevOps engineers vacancies, Designers, BA, sales and other operational positions.
